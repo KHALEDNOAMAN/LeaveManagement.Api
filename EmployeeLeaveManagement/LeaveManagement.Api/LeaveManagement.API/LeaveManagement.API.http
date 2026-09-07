@@ -1,0 +1,11 @@
+### Test Auth Login
+POST http://localhost:5194/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "Password123!"
+}
+
+### Test Scalar API Reference
+GET http://localhost:5194/scalar/v1

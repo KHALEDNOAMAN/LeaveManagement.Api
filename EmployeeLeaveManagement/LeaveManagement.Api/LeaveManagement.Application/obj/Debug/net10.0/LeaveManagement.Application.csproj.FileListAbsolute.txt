@@ -1,0 +1,15 @@
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\bin\Debug\net10.0\LeaveManagement.Application.deps.json
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\bin\Debug\net10.0\LeaveManagement.Application.dll
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\bin\Debug\net10.0\LeaveManagement.Application.pdb
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\bin\Debug\net10.0\LeaveManagement.Domain.dll
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\bin\Debug\net10.0\LeaveManagement.Domain.pdb
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveMan.11E40FD7.Up2Date
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.dll
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\refint\LeaveManagement.Application.dll
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\LeaveManagement.Application.pdb
+C:\Users\user\EmployeeLeaveManagement\Backend\LeaveManagement.Application\obj\Debug\net10.0\ref\LeaveManagement.Application.dll

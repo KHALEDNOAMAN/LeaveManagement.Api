@@ -1,0 +1,23 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <NuGetAudit>false</NuGetAudit>
+
+    <!-- Force MSBuild and EF Core CLI to ignore external feeds entirely -->
+    <RestoreSources>C:\Users\user\.nuget\packages</RestoreSources>
+    <RestoreAdditionalProjectSources>C:\Users\user\.nuget\packages</RestoreAdditionalProjectSources>
+    <RestoreIgnoreFailedSources>true</RestoreIgnoreFailedSources>
+    <DisableImplicitNuGetFallbackFolder>true</DisableImplicitNuGetFallbackFolder>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <EFCoreVersion>10.0.8</EFCoreVersion>
+    <NpgsqlVersion>10.0.3</NpgsqlVersion>
+    <JwtVersion>8.3.0</JwtVersion>
+    <BCryptVersion>4.0.3</BCryptVersion>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdbwrH2KIQM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\EmployeeLeaveManagement\\Backend\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.8\\microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.10\\microsoft.extensions.caching.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.10\\microsoft.extensions.caching.memory.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.10\\microsoft.extensions.dependencyinjection.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging\\10.0.10\\microsoft.extensions.logging.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.10\\microsoft.extensions.logging.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\10.0.10\\microsoft.extensions.options.10.0.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.10\\microsoft.extensions.primitives.10.0.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.EntityFrameworkCore 10.0.8 depends on Microsoft.Extensions.Caching.Memory (>= 10.0.8) but Microsoft.Extensions.Caching.Memory 10.0.8 was not found. Microsoft.Extensions.Caching.Memory 10.0.10 was resolved instead.",
+      "projectPath": "C:\\Users\\user\\EmployeeLeaveManagement\\Backend\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\EmployeeLeaveManagement\\Backend\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.EntityFrameworkCore 10.0.8 depends on Microsoft.Extensions.Logging (>= 10.0.8) but Microsoft.Extensions.Logging 10.0.8 was not found. Microsoft.Extensions.Logging 10.0.10 was resolved instead.",
+      "projectPath": "C:\\Users\\user\\EmployeeLeaveManagement\\Backend\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\EmployeeLeaveManagement\\Backend\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

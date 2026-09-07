@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LeaveManagement.Domain/1.0.0": {
+        "runtime": {
+          "LeaveManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeaveManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
